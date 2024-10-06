@@ -1,3 +1,5 @@
+baseurl: gallery
+
 collections:
   authors:
     output: true
