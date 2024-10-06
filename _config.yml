@@ -1,4 +1,5 @@
-baseurl: gallery
+# this should be for github pages ... hmmm it doesn't work
+baseurl: /gallery
 
 collections:
   authors:
